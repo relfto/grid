@@ -12,6 +12,6 @@ There are are 5 main files:
 
 5)CarAdapters package->Basically it takes values of images,items,names and store it in arraylist and places it into correct placeholder
 
-
+Screenshot->icons.png
 
 So,as a beginner that's it guys.
